@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c3024559-8360-4d57-8e8e-85d3b5698a9c)# veritabani_proje
+ veritabani_proje
 BTBS Lisans 4 Veritabanı II Final Projesi Github
 Proje:
 Bu proje Trimecha isimli Bilgisayar Tamiri ve Siparişi Sitesi projesidir. 
